@@ -1,0 +1,21 @@
+ЗАО «Бе щеки» — быстрый запуск
+
+1. Распакуй архив.
+2. Дважды нажми START_PROJECT.bat.
+3. При первом запуске PocketBase скачается автоматически.
+4. Откроются два окна: сервер PocketBase и Flutter.
+5. Сайт: http://localhost:5555
+6. Админка PocketBase: http://127.0.0.1:8090/_/
+
+Ничего копировать в папку pocketbase не нужно.
+
+Аккаунты сайта:
+buyer@bescheki.local / Buyer!123
+manager@bescheki.local / Manager!123
+admin@bescheki.local / Admin!123
+
+Админка PocketBase:
+admin@bescheki.local / PocketAdmin!123
+
+Чтобы на защите показать отключение сервера, нажми Ctrl+C только в окне PocketBase. Сайт оставь открытым.
+Чтобы снова включить сервер, запусти pocketbase\START_SERVER.bat.

@@ -1,0 +1,15 @@
+POCKETBASE ADMIN
+admin@bescheki.local
+PocketAdmin!123
+
+SITE BUYER
+buyer@bescheki.local
+Buyer!123
+
+SITE MANAGER
+manager@bescheki.local
+Manager!123
+
+SITE ADMIN
+admin@bescheki.local
+Admin!123
